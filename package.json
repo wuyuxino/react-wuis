@@ -1,0 +1,22 @@
+{
+	"name": "react-wuis",
+	"version": "0.0.1",
+	"description": "web ui assembly",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/wuyuxino/react-wui.git"
+	},
+	"dependencies": {
+		"prop-types": "15.7.2"
+	},
+	"keywords": [
+		"web",
+		"ui"
+	],
+	"author": "wuyx",
+	"license": "ISC"
+}
